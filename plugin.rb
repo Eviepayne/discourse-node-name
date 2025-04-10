@@ -1,3 +1,8 @@
+# name: discourse-node-name
+# about: Display the web-node you are connected to in a clustered environment
+# version: 0.1
+# authors: vladtheimplier
+
 # Install this theme component
 # api.onPageChange(async () => {
 #   const isAdmin = window.location.pathname.startsWith("/admin");
@@ -24,12 +29,6 @@
 #     }
 #   }
 # });
-
-
-# name: discourse-node-name
-# about: Display the web-node you are connected to in a clustered environment
-# version: 0.1
-# authors: vladtheimplier
 
 after_initialize do
   module ::DiscourseNodeInfo

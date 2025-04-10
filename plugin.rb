@@ -3,7 +3,9 @@
 # version: 0.1
 # authors: vladtheimplier
 
-# Install this theme component
+# -------------------------
+# Install this theme component:
+#
 # api.onPageChange(async () => {
 #   const isAdmin = window.location.pathname.startsWith("/admin");
 #   const existing = document.getElementById("discourse-node-info");

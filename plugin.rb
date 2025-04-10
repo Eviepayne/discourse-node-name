@@ -26,7 +26,7 @@
 # });
 
 
-# name: node-name
+# name: discourse-node-name
 # about: Display the web-node you are connected to in a clustered environment
 # version: 0.1
 # authors: vladtheimplier
